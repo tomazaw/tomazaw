@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **I play tennis and I am a music enthusiast**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
