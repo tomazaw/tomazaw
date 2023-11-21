@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently researching **UWB technology**
 
-- 🌱 I’m currently studying **Computer Science on the Silesian University of Technology**
+- 🌱 I’m currently studying **Computer Science at the Silesian University of Technology**
 
 - ⚡ Fun fact **I play tennis and I am a music enthusiast**
 
